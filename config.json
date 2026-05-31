@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpetch",
+        "uuid": 6344910,
+        "checksum": "k3fs9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
